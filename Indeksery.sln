@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indeksery", "Indeksery\Indeksery.csproj", "{99555564-DF46-438F-83FB-A119F7F9B19C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexersClasses", "IndexersClasses\IndexersClasses.csproj", "{4FD00E95-DD14-4B2A-ADE8-E9968ABF7034}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{99555564-DF46-438F-83FB-A119F7F9B19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99555564-DF46-438F-83FB-A119F7F9B19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99555564-DF46-438F-83FB-A119F7F9B19C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FD00E95-DD14-4B2A-ADE8-E9968ABF7034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD00E95-DD14-4B2A-ADE8-E9968ABF7034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD00E95-DD14-4B2A-ADE8-E9968ABF7034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD00E95-DD14-4B2A-ADE8-E9968ABF7034}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
